@@ -8,6 +8,7 @@ There are 5 properties added in order to control, how quad behaves during its mi
 * `self.STABILIZE_AT_WP` - if quad should hover with low velocity at WP before starting next WP
 * `self.STABILIZE_AT_WP_SPEED_TOLERANCE` - min abs(velocity) value to consider that quad is stabilized
 
+## Project instructions
 In this project, you'll set up a state machine using event-driven programming to autonomously flying a drone. You will be using flying a quadcopter in Unity simulator. After completing this assignment, you'll be familiar with sending commands and receiving incoming data from the drone. 
 
 The python code you write is similar to how the drone would be controlled from a ground station computer or an onboard flight computer. Since communication with the drone is done using MAVLink, you will be able to use your code to control an PX4 quadcopter autopilot with very little modification!
