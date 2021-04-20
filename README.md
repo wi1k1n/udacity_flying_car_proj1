@@ -1,4 +1,5 @@
 # FCND - Backyard Flyer Project
+### [Proj #1] Backyard Flyer | [\[Proj #2\] 3D Motion Planner](https://github.com/wi1k1n/udacity_flying_car_proj2) | [\[Proj #3\] Quad Controller](https://github.com/wi1k1n/udacity_flying_car_proj3)
 ## SOLUTION
 There are 5 properties added in order to control, how quad behaves during its mission.
 
